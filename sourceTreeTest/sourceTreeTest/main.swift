@@ -9,3 +9,4 @@ import Foundation
 
 print("Hello, World!")
 print("Test 합니당")
+print("원격 저장소 Test!")
